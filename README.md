@@ -39,7 +39,7 @@ Found a glitch, or have an idea for a utility that Minecraft players desperately
 
 ## 🔒 Security
 If you discover a severe security flaw or exploit, please do **not** open a public issue. 
-Check out our [Security Policy](./SECURITY.md) or email me directly at **support@frisly.me** so I can patch it safely.
+Check out our [Security Policy](./SECURITY.md) or email me directly at **frislybusiness@gmail.com** so I can patch it safely.
 
 ---
 

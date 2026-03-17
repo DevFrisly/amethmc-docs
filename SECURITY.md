@@ -13,7 +13,7 @@ Because AméthMC operates as a live suite of web utilities, only the current pro
 If you discover a critical security flaw, vulnerability, or exploit within any AméthMC tool, **please do not open a public GitHub issue.** We need to keep the Forge safe for all explorers while the matrix is being patched.
 
 Instead, please report the vulnerability directly via email:
-📧 **support@frisly.me**
+📧 **frislybusiness@gmail.com**
 
 ### What to include in your report:
 * A clear description of the vulnerability and its potential impact.
