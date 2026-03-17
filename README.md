@@ -3,7 +3,7 @@
   <p><b>Premium Minecraft Utilities to enhance your survival experience.</b></p>
   
   [![Website](https://img.shields.io/badge/Website-amethmc.frisly.me-D8BFD8?style=for-the-badge)](https://amethmc.frisly.me)
-  [![Discord](https://img.shields.io/badge/Discord-Join_the_Community-7289DA?style=for-the-badge&logo=discord)](YOUR_DISCORD_LINK)
+  [![Discord](https://img.shields.io/badge/Discord-Join_the_Community-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/zFf5SJr8zW)
   [![Modrinth](https://img.shields.io/badge/Modrinth-Browse_Packs-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpacks)
 </div>
 
@@ -30,8 +30,8 @@ Ready to get started? All of our official guides and troubleshooting steps are l
 ## 🐛 Bugs & Feature Requests
 Found a glitch, or have an idea for a utility that Minecraft players desperately need? We track all of that using GitHub Issues.
 
-1. **[Report a Bug](https://github.com/DevFrisly/AmethMC-Utils/issues/new?template=bug_report.md)**: If something is broken or throwing an error, please let us know so we can fix it!
-2. **[Request a Feature](https://github.com/DevFrisly/AmethMC-Utils/issues/new?template=feature_request.md)**: Have an idea for a new feature? We'd love to hear it.
+1. **[Report a Bug](https://github.com/DevFrisly/amethmc-docs/issues/new?template=bug_report.md)**: If something is broken or throwing an error, please let us know so we can fix it!
+2. **[Request a Feature](https://github.com/DevFrisly/amethmc-docs/issues/new?template=feature_request.md)**: Have an idea for a new feature? We'd love to hear it.
 
 *Tip: Please do a quick search through the existing issues before opening a new one to avoid duplicates!*
 
@@ -46,7 +46,7 @@ Check out our [Security Policy](./SECURITY.md) or email me directly at **support
 ## ☕ Support the Project
 AméthMC is built and maintained by **DevFrisly**. If these tools have saved you time or made your Minecraft server easier to run, consider leaving a tip! It helps keep the servers running and the coffee flowing.
 
-**[Support AméthMC here! (Donate)](YOUR_DONATION_LINK)**
+**[Support AméthMC here! (Donate)](https://ko-fi.com/devfrisly)**
 
 <br/>
 

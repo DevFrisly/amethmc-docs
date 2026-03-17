@@ -31,5 +31,5 @@ This is the most common issue for massive modpacks (250+ mods).
 
 If you've tried the steps above and the converter is still failing, we are here to help!
 
-1. **[Join our Discord](YOUR_DISCORD_LINK)**: Hop into the support channel and ask the community or DevFrisly directly.
-2. **[Report a Bug](https://github.com/DevFrisly/AmethMC-Utils/issues)**: If you believe the converter is genuinely broken, please open an issue and include the exact name and version of the modpack you are trying to convert.
+1. **[Join our Discord](https://discord.gg/zFf5SJr8zW)**: Hop into the support channel and ask the community or DevFrisly directly.
+2. **[Report a Bug](https://github.com/DevFrisly/amethmc-docs/issues)**: If you believe the converter is genuinely broken, please open an issue and include the exact name and version of the modpack you are trying to convert.

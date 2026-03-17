@@ -44,4 +44,4 @@ You can now take this generated `.zip` file and extract it directly into your Mi
 ## 🛑 Running into issues?
 If the conversion fails, hangs at 99%, or gives you an error code, don't worry! 
 
-Check out our **[Troubleshooting Guide](./troubleshooting.md)** for quick fixes, or [open a Bug Report](https://github.com/DevFrisly/AmethMC-Utils/issues) if you think the converter itself is broken.
+Check out our **[Troubleshooting Guide](./troubleshooting.md)** for quick fixes, or [open a Bug Report](https://github.com/DevFrisly/amethmc-docs/issues) if you think the converter itself is broken.

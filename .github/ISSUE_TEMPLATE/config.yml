@@ -1,11 +1,11 @@
 blank_issues_enabled: false
 contact_links:
   - name: 💬 Get Live Help (EPIC)
-    url: YOUR_DISCORD_LINK
+    url: https://discord.gg/zFf5SJr8zW
     about: Need real-time support? Join the AméthMC Discord to speak with the community or the Forge Master.
   - name: 📖 Read the Documentation (COMMON)
-    url: https://github.com/DevFrisly/AmethMC-Utils/tree/main/docs
+    url: https://github.com/DevFrisly/amethmc-docs/tree/main/docs
     about: Looking for guides? Read the ancient texts on how to master our utilities here.
   - name: ☕ Support the Forge (LEGENDARY)
-    url: YOUR_DONATION_LINK
+    url: https://ko-fi.com/devfrisly
     about: Keep the forge burning! Leave a tip to support the creator and server costs.
