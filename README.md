@@ -30,8 +30,8 @@ Ready to get started? All of our official guides and troubleshooting steps are l
 ## 🐛 Bugs & Feature Requests
 Found a glitch, or have an idea for a utility that Minecraft players desperately need? We track all of that using GitHub Issues.
 
-1. **[Report a Bug](https://github.com/DevFrisly/YOUR-REPO-NAME/issues/new?template=bug_report.md)**: If something is broken or throwing an error, please let us know so we can fix it!
-2. **[Request a Feature](https://github.com/DevFrisly/YOUR-REPO-NAME/issues/new?template=feature_request.md)**: Have an idea for a new feature? We'd love to hear it.
+1. **[Report a Bug](https://github.com/DevFrisly/AmethMC-Utils/issues/new?template=bug_report.md)**: If something is broken or throwing an error, please let us know so we can fix it!
+2. **[Request a Feature](https://github.com/DevFrisly/AmethMC-Utils/issues/new?template=feature_request.md)**: Have an idea for a new feature? We'd love to hear it.
 
 *Tip: Please do a quick search through the existing issues before opening a new one to avoid duplicates!*
 

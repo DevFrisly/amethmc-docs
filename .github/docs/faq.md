@@ -43,7 +43,7 @@ The Nether Travel tool will be a precise coordinate calculator to help you link 
 ### Support
 
 **I found a bug. Where do I report it?**
-Please open an issue on our [GitHub Support Tracker](https://github.com/DevFrisly/YOUR-REPO-NAME/issues). Provide as much detail as possible so we can squash the bug quickly!
+Please open an issue on our [GitHub Support Tracker](https://github.com/DevFrisly/AmethMC-Utils/issues). Provide as much detail as possible so we can squash the bug quickly!
 
 **How can I request a new feature?**
 We are always looking for new utility ideas! You can submit a Feature Request on our GitHub or drop your idea in the suggestions channel on our Discord server.
